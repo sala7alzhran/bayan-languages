@@ -1,0 +1,101 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "language": "fr",
+   "file": "packs/fr.nxd.gz",
+   "bytes": 2289130,
+   "sha256": "2d575266ae9eec5b900da44cba420bed3e5d056ef96f11a655a037e8dcdf9401",
+   "source": "AOSP LatinIME word list",
+   "license": "Apache-2.0"
+  },
+  {
+   "language": "de",
+   "file": "packs/de.nxd.gz",
+   "bytes": 3078368,
+   "sha256": "6b84434e4dec10a0739b13e2118abce49c35807f8c67421886c04ad8c91b4047",
+   "source": "AOSP LatinIME word list",
+   "license": "Apache-2.0"
+  },
+  {
+   "language": "es",
+   "file": "packs/es.nxd.gz",
+   "bytes": 1945590,
+   "sha256": "a674e8697e79de4c614a01f692075306c81486f37080c76a78c4a0e485c3ccdd",
+   "source": "AOSP LatinIME word list",
+   "license": "Apache-2.0"
+  },
+  {
+   "language": "it",
+   "file": "packs/it.nxd.gz",
+   "bytes": 1817025,
+   "sha256": "fd6f5027bb7409130723f7ec4cad58840c29e4e6054ea77e6fe4c4145991974a",
+   "source": "AOSP LatinIME word list",
+   "license": "Apache-2.0"
+  },
+  {
+   "language": "pt",
+   "file": "packs/pt.nxd.gz",
+   "bytes": 1680792,
+   "sha256": "f42123b5f6f783bcfe770f923f7d379294679920d92019a544571f976c803f9a",
+   "source": "AOSP LatinIME word list",
+   "license": "Apache-2.0"
+  },
+  {
+   "language": "tr",
+   "file": "packs/tr.nxd.gz",
+   "bytes": 1618581,
+   "sha256": "c99e30aac2a796661a2fdc9e862b93d06778c0b5430ca8f400dc4e25926077c4",
+   "source": "AOSP LatinIME word list",
+   "license": "Apache-2.0"
+  },
+  {
+   "language": "id",
+   "file": "packs/id.nxd.gz",
+   "bytes": 2016707,
+   "sha256": "78adda2259c502307bf9adc837d19ee581e907c02472de30e9d91d6cf8c3bcda",
+   "source": "FrequencyWords (OpenSubtitles 2018)",
+   "license": "CC-BY-SA-4.0"
+  },
+  {
+   "language": "ms",
+   "file": "packs/ms.nxd.gz",
+   "bytes": 1076650,
+   "sha256": "392a0aabe0c2d48b880e3b83b54fef657565484b2483b81f4d5340f28f5765b8",
+   "source": "FrequencyWords (OpenSubtitles 2018)",
+   "license": "CC-BY-SA-4.0"
+  },
+  {
+   "language": "tl",
+   "file": "packs/tl.nxd.gz",
+   "bytes": 134120,
+   "sha256": "bd6d5b73d7fedc1b2d0e4b4149c905dbeae1ab8802ed1bf911cfd5bc2954643c",
+   "source": "FrequencyWords (OpenSubtitles 2018)",
+   "license": "CC-BY-SA-4.0"
+  },
+  {
+   "language": "ru",
+   "file": "packs/ru.nxd.gz",
+   "bytes": 1851623,
+   "sha256": "e4164f4660c9eff0d39af90c833b5627f11b835cfcf3d8dfcc04dd16d675337a",
+   "source": "AOSP LatinIME word list",
+   "license": "Apache-2.0"
+  },
+  {
+   "language": "fa",
+   "file": "packs/fa.nxd.gz",
+   "bytes": 1111367,
+   "sha256": "40bae9c998d10e35b1f3e96662dab7d94fff7998e8f134b4c930fc32704a7cd4",
+   "source": "FrequencyWords (OpenSubtitles 2018)",
+   "license": "CC-BY-SA-4.0"
+  },
+  {
+   "language": "ur",
+   "file": "packs/ur.nxd.gz",
+   "bytes": 67963,
+   "sha256": "fbe7def5314995ed35286ca9004a854a48ca475f7afff806a63890c13fed500f",
+   "source": "FrequencyWords (OpenSubtitles 2018)",
+   "license": "CC-BY-SA-4.0"
+  }
+ ]
+}
